@@ -1,2 +1,2 @@
 # Crossword
-Crossword made in html, css and javascript
+Crossword made in html, css and javascript as a simple project.
